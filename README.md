@@ -4,6 +4,8 @@
 
 Esse projeto foi um desafio da Rocketseat
 
+[🔗 Clique aqui para acessar](https://caioguimaraes18.github.io/nlw-filmes-series/)
+
 
 ## 💻 Tecnologias
 
