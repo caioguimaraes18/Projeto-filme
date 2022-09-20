@@ -12,8 +12,8 @@ body {
     background-image: url(./assets/Fundo.jpg);
     background-position: top center;
     background-size: 100% auto;
-    background-repeat: no-repeat;
-    background-color: #000000;
+    background-repeat: initial;
+    background-color: #1E1E1E;
 }
 
 body * {
