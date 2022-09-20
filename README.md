@@ -17,4 +17,4 @@ Esse projeto foi um desafio interessante para mim, pois fiz tudo sozinho com um 
 
 ## ☎️ Contato
 
-E-mail: contatocaioguimaraess@gmail.comA
+E-mail: contatocaioguimaraess@gmail.com
